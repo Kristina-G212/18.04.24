@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- icon666.com - MILLIONS vector ICONS FREE -->
+
+<svg
+   enable-background="new 0 0 32 32"
+   viewBox="0 0 62.099998 64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="website.svg"
+   width="62.099998"
+   height="64"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="8.9935144"
+     inkscape:cx="4.2808627"
+     inkscape:cy="33.301776"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="Layer_1"
+     transform="matrix(2.0707082,0,0,2.1333333,-2.0707082,-2.1333333)"
+     style="fill:#22223b;fill-opacity:1">
+    <path
+       d="M 27.38,7 H 25 V 4.62 C 25,2.624 23.376,1 21.38,1 H 4.62 C 2.624,1 1,2.624 1,4.62 V 21.38 C 1,23.376 2.624,25 4.62,25 H 7 v 2.38 C 7,29.376 8.624,31 10.62,31 H 27.38 C 29.376,31 31,29.376 31,27.38 V 10.62 C 31,8.624 29.376,7 27.38,7 Z M 23,4.62 V 6 H 16.602 C 15.433,6 14.397,5.299 13.963,4.213 L 13.478,3 H 21.38 C 22.273,3 23,3.727 23,4.62 Z M 3,21.38 V 4.62 C 3,3.727 3.727,3 4.62,3 h 6.703 l 0.783,1.956 C 12.845,6.805 14.609,8 16.602,8 H 23 V 21.38 C 23,22.274 22.273,23 21.38,23 H 4.62 C 3.727,23 3,22.273 3,21.38 Z m 26,6 C 29,28.274 28.273,29 27.38,29 H 10.62 C 9.727,29 9,28.273 9,27.38 V 25 H 21.38 C 23.376,25 25,23.376 25,21.38 V 9 h 2.38 C 28.273,9 29,9.727 29,10.62 Z"
+       fill="#000000"
+       id="path2"
+       style="fill:#22223b;fill-opacity:1" />
+  </g>
+</svg>

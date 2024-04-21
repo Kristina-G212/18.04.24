@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 40.96 40.96"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="about.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="5.7558492"
+     inkscape:cx="16.765554"
+     inkscape:cy="21.803907"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <title
+     id="title2">about</title>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(0.096,0,0,0.096,-4.096,-4.096)"
+     style="fill:#22223b;fill-opacity:1">
+    <g
+       id="about-white"
+       fill="#000000"
+       transform="translate(42.666667,42.666667)"
+       style="fill:#22223b;fill-opacity:1">
+      <path
+         d="M 213.33333,0 C 95.51296,0 0,95.51168 0,213.33333 c 0,117.82038 95.51296,213.33334 213.33333,213.33334 117.82166,0 213.33334,-95.51296 213.33334,-213.33334 C 426.66667,95.51168 331.15499,0 213.33333,0 Z m 0,384 C 119.22795,384 42.666667,307.43872 42.666667,213.33333 42.666667,119.22795 119.22795,42.666667 213.33333,42.666667 307.44,42.666667 384,119.22795 384,213.33333 384,307.43872 307.44,384 213.33333,384 Z m 26.71339,-256 c 0,15.46752 -11.26165,26.66667 -26.49664,26.66667 -15.85131,0 -26.83669,-11.19915 -26.83669,-26.96256 0,-15.15051 11.28277,-26.37078 26.83669,-26.37078 15.23499,0 26.49664,11.22027 26.49664,26.66667 z m -48,64 h 42.66667 v 128 h -42.66667 z"
+         id="Shape"
+         style="fill:#22223b;fill-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>about</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

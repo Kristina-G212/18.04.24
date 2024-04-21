@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   version="1.1"
+   width="91.5"
+   height="128"
+   viewBox="0 0 58.56 81.92"
+   enable-background="new 0 0 512 512"
+   xml:space="preserve"
+   id="svg5"
+   sodipodi:docname="css3.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient11850"><stop
+       style="stop-color:#efc7e7;stop-opacity:1;"
+       offset="0"
+       id="stop11846" /><stop
+       style="stop-color:#000000;stop-opacity:0;"
+       offset="1"
+       id="stop11848" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     id="linearGradient1072"><stop
+       style="stop-color:#ef7978;stop-opacity:1;"
+       offset="0"
+       id="stop1068" /><stop
+       style="stop-color:#d34d70;stop-opacity:1;"
+       offset="0.21461216"
+       id="stop11083" /><stop
+       style="stop-color:#c74068;stop-opacity:1;"
+       offset="0.42922431"
+       id="stop7121" /><stop
+       style="stop-color:#92336e;stop-opacity:1;"
+       offset="0.71461213"
+       id="stop10598" /><stop
+       style="stop-color:#5e2775;stop-opacity:1;"
+       offset="1"
+       id="stop1070" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient1072"
+     id="linearGradient1074"
+     x1="129.64539"
+     y1="4.2625327"
+     x2="446.40076"
+     y2="600.24756"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.15999537,0,0,0.15999537,-11.688737,-1.5967218e-4)" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient11850"
+     id="linearGradient11852"
+     x1="438.31226"
+     y1="484.60864"
+     x2="135.06531"
+     y2="31.837961"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.15999537,0,0,0.15999537,-11.688737,-1.5967218e-4)" /></defs><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="4.07"
+   inkscape:cx="68.181818"
+   inkscape:cy="35.503686"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="c133de6af664cd4f011a55de6b001a2b" />
+
+<g
+   id="c133de6af664cd4f011a55de6b001a2b">
+
+<path
+   display="inline"
+   d="M 20.960556,7.4687447 V 10.991522 H 11.9525 V 0.079998 h 9.008056 V 3.9406864 H 15.813188 V 7.4687447 Z M 30.22061,3.9406864 h 3.59862 V 0.079998 h -9.009023 c 0,0 0,1.937864 0,3.8606884 1.205247,1.2052451 1.83371,1.7821884 3.576863,3.5253378 -1.01902,0 -3.576863,0.0035 -3.576863,0.00336 V 10.99152 H 33.81923 V 7.4687432 Z m 12.76843,0 h 3.5983 V 0.079998 h -9.0087 c 0,0 0,1.937864 0,3.8606884 1.20492,1.2052451 1.83371,1.7821884 3.5767,3.5253378 -1.01837,0 -3.5767,0.0035 -3.5767,0.00336 V 10.99152 H 46.5875 V 7.4687447 Z M 58.45243,16.177292 52.98011,75.453339 29.26992,81.837153 5.5592444,75.453339 0.08772236,16.177292 Z M 47.42587,28.230063 H 29.24848 10.749814 l 0.884614,7.158034 h 17.614052 0.98941 l -0.98941,0.411827 -16.97023,7.068116 0.562864,6.996598 16.407366,0.05328 8.79383,0.028 -0.56335,9.32949 -8.23048,2.317373 v -0.0074 l -0.0675,0.01856 -7.94921,-2.006662 -0.482392,-5.791033 h -0.02623 -7.373383 -0.02592 l 0.965091,11.179836 14.959564,4.423713 v -0.008 l 0.0269,0.008 14.87956,-4.343235 1.93067,-22.198397 h -16.83712 -0.0416 l 0.0416,-0.01792 17.45326,-7.462024 z"
+   id="path2"
+   style="fill:url(#linearGradient1074);fill-opacity:1;stroke:url(#linearGradient11852);stroke-width:0.159996">
+
+</path>
+
+</g>
+
+</svg>
